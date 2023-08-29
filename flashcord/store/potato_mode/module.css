@@ -1,0 +1,28 @@
+:root {
+  --Flashcord-TransMult-XFast: 15.625ms;
+  --Flashcord-TransMult-Fast: 31.25ms;
+  --Flashcord-TransMult-Normal: 62.5ms;
+  --Flashcord-TransMult-Slow: 125ms;
+  --Flashcord-TransMult-XSlow: 250ms;
+
+  --Flashcord-AnimMult-XFast: 15.625ms;
+  --Flashcord-AnimMult-Fast: 31.25ms;
+  --Flashcord-AnimMult-Normal: 62.5ms;
+  --Flashcord-AnimMult-Slow: 125ms;
+  --Flashcord-AnimMult-XSlow: 250ms;
+
+  --Flashcord-Blur-Heavy: 0;
+  --Flashcord-Blur-Medium: 0;
+  --Flashcord-Blur-Light: 0;
+
+  --FlashCore-ChannelNav_Notification: FC-VOID;
+  --FlashCore-GuildNav_Notification: FC-VOID;
+  --FlashCore-MessageSlide: FC-VOID;
+  --FlashCore-ChatSlide: FC-VOID;
+  --Flashcord-Focus: FC-VOID;
+
+  --FlashCore-GuildNav_Compact: FC-GuildNav_Compact-Horizontal;
+  --FlashCore-Idle_Optimizations: FC-Idle_OptiMax;
+  --FlashCore-MGM-Control: FC-ControlPanel_Full;
+  --Flashcord-Chat_Effects: FC-ChatEffects_Text;
+}
